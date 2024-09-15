@@ -1,0 +1,101 @@
+# depslib dependency file v1.0
+1713281588 source:c:\projectc\omgtu\rgr\kurs1\semestr2\rgr\rgr\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<string.h>
+	<locale.h>
+	<math.h>
+	<conio.h>
+	"uravnenie.h"
+	"integral.h"
+	"screen_saver.h"
+
+1708845747 source:c:\projectc\omgtu\rgr\kurs1\semestr2\rgr\rgr\resourc.rc
+
+1712488612 c:\projectc\omgtu\rgr\kurs1\semestr2\rgr\rgr\urav.h
+
+1712492263 source:c:\projectc\omgtu\rgr\kurs1\semestr2\rgr\rgr\urav.cpp
+	<iostream>
+	<stdio.h>
+	<locale.h>
+	<windows.h>
+	<math.h>
+	<conio.h>
+	"urav.h"
+
+1712475231 c:\projectc\omgtu\rgr\kurs1\semestr2\rgr\rgr\integral.h
+
+1712505570 source:c:\projectc\omgtu\rgr\kurs1\semestr2\rgr\rgr\integral.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	"integral.h"
+
+1712508730 source:c:\projectc\omgtu\rgr\kurs1\semestr2\rgr\rgr\screen_saver.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	"screen_saver.h"
+
+1712506635 c:\projectc\omgtu\rgr\kurs1\semestr2\rgr\rgr\screen_saver.h
+
+1712505570 source:c:\projectc\omgtu\rgr\kurs1\semestr2\rgr\rgr1.1\rgr1.1\integral.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	"integral.h"
+
+1712475231 c:\projectc\omgtu\rgr\kurs1\semestr2\rgr\rgr1.1\rgr1.1\integral.h
+
+1708845747 source:c:\projectc\omgtu\rgr\kurs1\semestr2\rgr\rgr1.1\rgr1.1\resourc.rc
+
+1712508730 source:c:\projectc\omgtu\rgr\kurs1\semestr2\rgr\rgr1.1\rgr1.1\screen_saver.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	"screen_saver.h"
+
+1712506635 c:\projectc\omgtu\rgr\kurs1\semestr2\rgr\rgr1.1\rgr1.1\screen_saver.h
+
+1712505570 source:c:\projectc\omgtu\rgr\kurs1\semestr2\rgr\rgr\rgr\integral.cpp
+	<iostream>
+	<stdio.h>
+	<math.h>
+	"integral.h"
+
+1712475231 c:\projectc\omgtu\rgr\kurs1\semestr2\rgr\rgr\rgr\integral.h
+
+1713030629 source:c:\projectc\omgtu\rgr\kurs1\semestr2\rgr\rgr\rgr\main.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<string.h>
+	<locale.h>
+	<math.h>
+	<conio.h>
+	"integral.h"
+	"screen_saver.h"
+
+1712506635 c:\projectc\omgtu\rgr\kurs1\semestr2\rgr\rgr\rgr\screen_saver.h
+
+1708845747 source:c:\projectc\omgtu\rgr\kurs1\semestr2\rgr\rgr\rgr\resourc.rc
+
+1712508730 source:c:\projectc\omgtu\rgr\kurs1\semestr2\rgr\rgr\rgr\screen_saver.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	"screen_saver.h"
+
+1713176982 source:c:\projectc\omgtu\rgr\kurs1\semestr2\rgr\rgr\uravnenie.cpp
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<string.h>
+	<locale.h>
+	<math.h>
+	<conio.h>
+	"uravnenie.h"
+
+1713176292 c:\projectc\omgtu\rgr\kurs1\semestr2\rgr\rgr\uravnenie.h
+

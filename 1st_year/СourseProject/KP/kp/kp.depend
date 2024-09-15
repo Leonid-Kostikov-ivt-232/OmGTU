@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1716110823 source:c:\projectc\omgtu\kp\kp\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<windows.h>
+	<string.h>
+	<locale.h>
+	<math.h>
+	<conio.h>
+	"gotoxy.h"
+	"verification_test.h"
+	"screen_saver.h"
+
+1713595799 c:\projectc\omgtu\kp\kp\gotoxy.h
+
+1713596063 source:c:\projectc\omgtu\kp\kp\gotoxy.cpp
+	<windows.h>
+	"gotoxy.h"
+
+1712506635 c:\projectc\omgtu\kp\kp\screen_saver.h
+
+1714574177 source:c:\projectc\omgtu\kp\kp\screen_saver.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	"screen_saver.h"
+
+1715345994 source:c:\projectc\omgtu\kp\kp\resourc.rc
+
+1714736279 c:\projectc\omgtu\kp\kp\w.h
+
+1714736703 source:c:\projectc\omgtu\kp\kp\w.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<windows.h>
+	<string.h>
+	<locale.h>
+	<math.h>
+	<conio.h>
+	"gotoxy.h"
+	"w.h"
+
+1715322409 c:\projectc\omgtu\kp\kp\hello_world.h
+
+1715362221 source:c:\projectc\omgtu\kp\kp\kgb.cpp
+	<tchar.h>
+	<windows.h>
+	"kgb.h"
+
+1715360988 c:\projectc\omgtu\kp\kp\kgb.h
+
+1715620944 source:c:\projectc\omgtu\kp\kp\verification_test.cpp
+	<iostream>
+	<windows.h>
+	<string.h>
+	<locale>
+	"gotoxy.h"
+	"verification_test.h"
+
+1715519829 c:\projectc\omgtu\kp\kp\verification_test.h
+
+1715323302 source:c:\projectc\omgtu\kp\kp\hello_world.cpp
+	<iostream>
+	<locale>
+	"hello_world.h"
+
